@@ -26,5 +26,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/notifications-page-h0PgykbCx0)
-- Live Sit URL: [Add live site URL here](https://aesthetic-snickerdoodle-8d9cf8.netlify.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/notifications-page-h0PgykbCx0)
+- Live Sit URL: [Live site](https://aesthetic-snickerdoodle-8d9cf8.netlify.app/)
